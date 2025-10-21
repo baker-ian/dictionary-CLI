@@ -37,4 +37,4 @@ jobs:
       # The tests will use the mocked data, so no real API calls are made.
       - name: Run tests with pytest
         run: |
-          pytestO
+          pytest
