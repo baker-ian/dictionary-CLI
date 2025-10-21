@@ -4,7 +4,7 @@ A Python-based command-line tool that fetches word definitions, phonetics, and o
 
 This project was built for a university midterm, demonstrating AI-assisted development, testing, and CI/CD practices.
 
-![Tests](https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>/workflows/Tests/badge.svg)
+![Tests](https://github.com/baker-ian/dictionary-CLI/workflows/Tests/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
