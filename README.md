@@ -23,7 +23,7 @@ To run this tool locally, follow these steps:
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/](https://github.com/)baker-ian/dictionary-CLI.git
-    cd <YOUR_REPO_NAME>
+    cd dictionary-CLI
     ```
 
 2.  **Create and activate a virtual environment (Recommended):**
